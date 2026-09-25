@@ -1,0 +1,24 @@
+{
+    "weather-gov-home":{
+        "site": "https://www.weather.gov/",
+        "input-box-CSS-Selector":"#inputstring",
+        "input-box-button-CSS-Selector":"#btnSearch",
+        "input-format":"[CITY], [STATE]|[INTEGER]",
+        "weather-redirect-page-columns":["Humidity", "Wind Speed", "Barometer", "Dewpoint", "Visibility", "Heat Index", "Last update"],
+        "weather-redirect-page-summary-CSS-Selector":"#current-conditions-body",
+        "full-content-CSS-Selector":".contentArea"
+    },
+    "moongiant":{
+        "site":"https://www.moongiant.com",
+        "phase-page":"/phase/today/",
+        "phase-summary-CSS-Selector":"#moonDetails",
+        "phase-details-columns":["Phase", "Illumination", "Moon Age", "Moon Angle", "Moon Distance", "Sun Angle", "Sun Distance"],
+        "full-content-CSS-Selector":"#col1",
+        "full-content-CSS-Path":"html body.en.dayCheck1 div.container div.container-fluid div.row div.col-xs-12.col-md-9.col-lg-9.colMob div#placePhase div.container-fluid div#timeCoverters.row div#col1.col-xs-12.col-md-5.col-lg-5"
+    },
+    "salt-strong":{
+        "site":"https://tides.saltstrong.com",
+        "tide-page":"/[STATE]/[LOCATION]/[INTEGER]-tides",
+        "tide-page-full-content-CSS-Selector":"div.container:nth-child(9)"
+    }
+}
