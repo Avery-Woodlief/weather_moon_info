@@ -1,0 +1,36 @@
+{
+    "2026-10-03": {
+        "0": {
+            "Humidity": "63%",
+            "Wind Speed": "NE 14 mph",
+            "Barometer": "29.92 in (1013.6 mb)",
+            "Dewpoint": "75\u00b0F (24\u00b0C)",
+            "Visibility": "10.00 mi",
+            "Heat Index": "99\u00b0F (37\u00b0C)",
+            "Last update": "3 Oct 12:53 pm CDT",
+            "Phase": "Last Quarter",
+            "Illumination": "48%",
+            "Moon Age": "22.29",
+            "daysMoon Angle": "0.55",
+            "Moon Distance": "363,618.26",
+            "kmSun Angle": "0.53",
+            "Sun Distance": "149,648,137.83"
+        },
+        "1": {
+            "Humidity": "63%",
+            "Wind Speed": "NE 14 mph",
+            "Barometer": "29.92 in (1013.6 mb)",
+            "Dewpoint": "75\u00b0F (24\u00b0C)",
+            "Visibility": "10.00 mi",
+            "Heat Index": "99\u00b0F (37\u00b0C)",
+            "Last update": "3 Oct 12:53 pm CDT",
+            "Phase": "Last Quarter",
+            "Illumination": "48%",
+            "Moon Age": "22.29",
+            "daysMoon Angle": "0.55",
+            "Moon Distance": "363,618.26",
+            "kmSun Angle": "0.53",
+            "Sun Distance": "149,648,137.83"
+        }
+    }
+}
